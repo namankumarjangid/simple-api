@@ -1,9 +1,0 @@
-POST http://localhost:5000/students HTTP/1.1
-Content-type: application/json
-
-{
-    "name":"naman ji",
-    "email":"naman80162@gmail.com",
-    "phone":9782602968,
-    "address":"jaipur"
-}
